@@ -10,8 +10,8 @@
 			<table id="datos" class="datos" style="width: 100%;">
 				<thead>
 					<th>Nombre</th>
-					<th>Tipo de Financiamiento</th>
-					<th>Tipo de Financiamiento</th>
+					<th>Dependencia</th>
+					<th>Fecha</th>
 					<th>Formato</th>
 					<th></th>
 				</thead>
@@ -24,8 +24,8 @@
 			<table id="datos-b" class="datos" style="width: 100%;">
 				<thead>
 					<th>Nombre</th>
-					<th>Tipo de Financiamiento</th>
-					<th>Tipo de Financiamiento</th>
+					<th>Dependencia</th>
+					<th>Fecha</th>
 					<th>Formato</th>
 					<th></th>
 				</thead>

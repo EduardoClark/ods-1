@@ -17,18 +17,21 @@ foreach($metadata["results"] as $value) {
 ?>
 
 <div class="jumbotron-block col-xs-12 col-sm-8">
-	<h4 style="font-weight: 700; color: #00cc99;">Crowdfunding MX</h4>
-	<h3>Sistema de Información sobre Financiamiento Colectivo</h3>
-	<p>Es una iniciativa del Fondo Multilateral de Inversiones (FOMIN) del Banco Interamericano de Desarrollo (BID) ejecutado por la Universidad Anáhuac a través del Centro IDEARSE con la participación de Nacional Financiera, el Instituto Nacional del Emprendedor, la Oficina de Estrategia Digital de la Presidencia de la República, la Comisión Nacional Bancaria y de Valores y la Asociación de Plataformas de Fondeo Colectivo, para impulsar proyectos vía crowdfunding o de financiamiento/fondeo colectivo en México.</p>
+	<h4 style="font-weight: 700; color: #00cc99;">Agenda 2030 de Desarrollo Sostenible</h4>
+	<h3>Objetivos de Desarrollo Sostenible</h3>
+	<p>Iniciativa del Gobierno de la República, el Programa de las Naciones Unidas para el Desarrollo (PNUD) y la Agencia Mexicana de Cooperación Internacional para el Desarrollo (AMEXCID) a fin de poner a prueba un conjunto de indicadores de inclusión social y una plataforma piloto para el seguimiento de los Objetivos de Desarrollo Sostenible.</p>
 	<p style="margin-top: 20px;">
 		<span style="margin-right: 20px;"><img width=133 height=35 src="<?php echo path_to_theme(); ?>/assets/presidencia.png" /></span>
-		<span style="margin-right: 20px;"><img width=133 height=35 src="<?php echo path_to_theme(); ?>/assets/Vectores/logo-header2.png" /></span>
-		
+		<span style="margin-left: 20px;"><img width=39 height=91 src="<?php echo path_to_theme(); ?>/assets/pnud-logo.png" /></span>
+		<span style="margin-left: 20px;"><img width=142 height=37 src="<?php echo path_to_theme(); ?>/assets/amexcid.png" /></span>
 	</p>
+</div>
+<div class="col-xs-4">
+	<div style="position: relative; bottom: 10px; margin-top: 220px; margin-right: 10px;" class="btn btn-invert ver-video"><a class="popup-youtube" href="http://www.youtube.com/watch?v=Cju-Y-WqBNk">Ver Video</a></div></div>
 </div>
 <div class="jumbotron-block col-xs-12">
 	<p>
-		Consulta datos de más de X indicadores sobre la evolución del financiamiento colectivo en México. <br/>Primero selecciona un tipo de financiamiento colectivo, y posteriormente elige un indicador:
+		Consulta datos de más de 100 indicadores correspondientes a los Objetivos de Desarrollo Sostenible.<br/>Primero selecciona un objetivo, y posteriormente elige un indicador:
 	</p>
 </div>
 <?php

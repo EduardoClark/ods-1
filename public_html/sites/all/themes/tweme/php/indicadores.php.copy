@@ -1,6 +1,6 @@
 <div class="row">
 	<div class="col-xs-12">
-		Consulta datos de más de X indicadores sobre la evolución de 4 mecanismos de Financiamiento Colectivo en México <br/>Primero selecciona el mecanismo de financiamiento, y posteriormente elige un indicador:
+		Consulta datos de más de 100 indicadores correspondientes a los Objetivos de Desarrollo Sostenible.<br/>Primero selecciona un objetivo, y posteriormente elige un indicador:
 </div>
 </div>
 <?php

@@ -1,37 +1,24 @@
-<div style="position: relative; bottom: 10px;" class="btn btn-invert ver-video"><a class="popup-youtube" href="http://www.youtube.com/watch?v=Cju-Y-WqBNk">Ver Video</a></div></div>
+<h4>¿Quién es Crowdfunding México?</h4>
+<p>Es una iniciativa del Fondo Multilateral de Inversiones (FOMIN) del Banco Interamericano de Desarrollo (BID) ejecutado por la Universidad Anáhuac a través del Centro IDEARSE con la participación de Nacional Financiera, el Instituto Nacional del Emprendedor, la Oficina de Estrategia Digital de la Presidencia de la República, la Comisión Nacional Bancaria y de Valores y la Asociación de Plataformas de Fondeo Colectivo, para impulsar proyectos vía crowdfunding o de financiamiento/fondeo colectivo, ecosistema que está en una fase inicial en México, y que es considerado un mercado alternativo de fondeo para proyectos innovadores a través de plataformas digitales.</p>
 
-<p>Esta herramienta es una iniciativa del Gobierno de la República, el Programa de las Naciones Unidas para el Desarrollo (PNUD) y la Agencia Mexicana de Cooperación Internacional para el Desarrollo (AMEXCID). Pone a disposición de la ciudadanía en general, académicos, funcionarios públicos y tomadores de decisiones más de 100 indicadores seleccionados desde un enfoque de inclusión social. Esta herramienta de consulta interactiva tiene como propósito impulsar una mejor comprensión de las brechas y desigualdades sociales existentes entre las diferentes regiones y grupos de personas en nuestro país, que detone nuevos estudios y análisis así como un diseño de políticas públicas para el desarrollo más focalizado y centrado en la persona. Asimismo, busca servir de plataforma piloto para el seguimiento de los Objetivos de Desarrollo Sostenible que entrarán en vigor a partir de 2016.</p>
-
-<p>Este proyecto surge a invitación del PNUD y nace en reconocimiento al trabajo realizado por México en materia de seguimiento de los Objetivos de Desarrollo del Milenio (ODM) y es una muestra más del compromiso que tiene nuestro país con la Agenda 2030 de Desarrollo Sostenible.</p>
+<h4>¿Cómo funciona Crowdfunding México?</h4>
+<p>El proyecto reforzará el ecosistema de financiamiento colectivo mediante la consolidación de la Asociación de Plataformas de Fondeo Colectivo (AFICO), liderada por las principales plataformas de financiamiento colectivo de México. Ésta recibirá asistencia técnica para colaborar con agentes clave a fin de facilitar el diálogo para estudiar los parámetros de un marco prudencial propicio para la aceleración del desarrollo del ecosistema. Ese apoyo se basará en prácticas óptimas reconocidas en materia de financiamiento colectivo, según la experiencia de mercados desarrollados, y velará por que se considere adecuadamente el contexto local. Los conocimientos generados en la puesta a prueba de este nuevo modelo de intervención serán extraordinariamente valiosos para llenar los vacíos de conocimiento actuales y diseñar iniciativas de financiamiento colectivo similares en otros países. </p>
  
-<h4>Objetivos de Desarrollo del Milenio</h4>
-<p>Los Objetivos de Desarrollo del Milenio (ODM) pasarán a la historia como el primer esfuerzo a gran escala de la humanidad para elevar de manera simultánea el nivel de vida de millones de personas en todo el mundo. Durante 15 años, los ODM significaron para sociedades y gobiernos la oportunidad de contar con una agenda universal de prioridades que trazaba una ruta definida para el desarrollo de las naciones. Los ODM ahora dan paso a los Objetivos de Desarrollo Sostenible (ODS) que tendrán un periodo de vigencia de 15 años.</p>
+<h4>Aceleración del ecosistema de financiamiento colectivo</h4>
+<p>El proyecto pondrá a prueba un modelo de intervención colaborativa enfocado en acelerar el desarrollo de un ecosistema de financiamiento colectivo sostenible en México. En consonancia con las recomendaciones del informe sobre financiamiento colectivo en México, el modelo cubrirá la brecha entre la demanda de financiamiento de los empresarios y las MIPYME, el entendimiento del mercado y las fuentes de financiamiento. Al fortalecer las capacidades de las plataformas de financiamiento colectivo existentes y crear un entorno propicio para el surgimiento de nuevas plataformas, permitirá que los empresarios y las MIPYME las aprovechen mejor y tengan acceso a una multitud de nuevas oportunidades de negocios.</p>
 
-<h4>Agenda 2030 de Desarrollo Sostenible</h4>
-<p>La Agenda 2030 para el Desarrollo Sostenible es un plan de acción mundial en favor de las personas, el planeta y la prosperidad. Busca fortalecer la paz universal y la erradicación de la pobreza en todas sus formas y dimensiones, incluida la pobreza extrema, hacer realidad los derechos humanos de todas las personas y alcanzar la igualdad entre los géneros y el empoderamiento de todas las mujeres y niñas, para avanzar así hacia el desarrollo sostenible.  Se compone de 17 Objetivos y 169 metas de carácter universal que abarcan las tres dimensiones del desarrollo sostenible: social, económica y ambiental.</p>
-<p>Para conocer la agenda completa, puedes consultar el texto completo de la Declaración de la Agenda que entrará en vigor el 1 de enero de 2016 en <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/69/L.85&Lang=S">http://www.un.org/ga/search/view_doc.asp?symbol=A/69/L.85&Lang=S</a></p>
+<h4>Asistencia Técnica</h4>
+<p>El proyecto línea, brindará a empresas y emprendedores locales (en especial, empresas sociales y negocios liderados por mujeres y jóvenes) asistencia técnica que mejorará su capacidad para utilizar tecnologías digitales y gestionar operaciones comerciales. Pondrá en práctica una estrategia de divulgación incluyente focalizada en los beneficiarios por medio de asociaciones de pequeñas empresas, redes afiliadas de contrapartes del proyecto (por ejemplo, la Red de Apoyo al Emprendedor del INADEM), y estudiantes universitarios. Además, con miras a maximizar su alcance y garantizar iguales oportunidades de formación, el proyecto creará herramientas de capacitación a las que se podrá acceder en línea.</p>
 
-<h4>Proyecto de indicadores de inclusión social</h4>
-<p>En septiembre de 2014, el Programa de las Naciones Unidas para el Desarrollo (PNUD) invitó a nuestro país a participar en una iniciativa piloto que pusiera a prueba un conjunto de indicadores en el ámbito social para el seguimiento de los ODS tomando como base la exitosa experiencia de nuestro país en el seguimiento de los Objetivos de Desarrollo del Milenio.<br/>
-Esta iniciativa propone y pone a prueba más de 100 indicadores bajo un enfoque de inclusión social incluyendo pobreza, ingreso, trabajo, salud, educación, género, agua, energía, vivienda y ciudades sustentables. Esta plataforma es una demostración de la capacidades desarrolladas por nuestro país en materia estadística y muestra del compromiso de México con la Agenda 2030 de Desarrollo Sostenible.</p>
+<h4>Capacitación</h4>
+<p>El proyecto también ofrecerá capacitación a los microinversionistas potenciales, a efecto de mejorar su capacidad para identificar y evaluar las oportunidades de financiamiento colectivo basado en donaciones, recompensas y préstamos, y los riesgos pertinentes. Es posible que también se imparta capacitación avanzada a inversionistas acreditados, con miras a informarles acerca de las plataformas de financiamiento colectivo basado en acciones, las oportunidades actuales y las limitaciones y riesgos. En todas las actividades de capacitación se pondrá énfasis especial en las consideraciones pertinentes para apoyar con financiamiento colectivo financiero y no financiero a las empresas sociales y los negocios liderados por mujeres o jóvenes, o propiedad de mujeres o jóvenes. Con objeto de maximizar el acceso, también se pondrá a disposición de los microinversionistas material en línea.</p>
 
-<h4>¿Qué es un desarrollo incluyente?</h4>
-<p>Un desarrollo incluyente debe darse desde un enfoque de derechos para todos, la inclusión se refiere no sólo al reconocimiento legal de ciertos derechos sino al ejercicio efectivo de estos por toda persona y a la capacidad del Estado de garantizarlos, sin importar el origen o condición de las personas. El concepto de inclusión puede apuntar a todos los aspectos del desarrollo sostenible: socio-económico (educación-salud-empleo-vivienda), medio ambiente sano y una vida pacífica.<br/>
-Un desarrollo que no es incluyente no es sostenible en el tiempo ni puede llamarse propiamente desarrollo. Un crecimiento y un desarrollo excluyente fracturan la cohesión social, amplían brechas y desventajas entre poblaciones e impone mayores costes al desarrollo futuro. Sin inclusión social no habrá cohesión social duradera.</p>
-<p>México reafirma su compromiso como actor con responsabilidad global y asume el reto para el logro de los Objetivos de Desarrollo Sostenible (ODS). Con los ODS, una nueva generación de mexicanos tiene la oportunidad de trazar un desarrollo más incluyente y con mayor igualdad.</p>
+<h4>Beneficios del Crowdfunding México</h4>
+<p>El proyecto prevé que se operen diversos cambios en el comportamiento de los empresarios y las MIPYME. Las actividades educativas y promocionales, aunadas a la elaboración y diseminación de materiales didácticos pertinentes, fomentarán el uso de las plataformas de financiamiento colectivo entre los empresarios y los microinversionistas.</p>
 
-<script type='text/javascript'>
-(function ($) {
-	$(document).ready(function() {
-		$('.popup-youtube').magnificPopup({
-			disableOn: 640,
-			type: 'iframe',
-			mainClass: 'mfp-fade',
-			removalDelay: 160,
-			preloader: false,
-	
-			fixedContentPos: false
-		});
-	});
-}(jQuery));
-</script>
+<h4>Sistema de Monitoreo</h4>
+<p>El proyecto prevé que se operen diversos cambios en el comportamiento de los empresarios y las MIPYME. Las actividades educativas y promocionales, aunadas a la elaboración y diseminación de materiales didácticos pertinentes, fomentarán el uso de las plataformas de financiamiento colectivo entre los empresarios y los microinversionistas.</p>
+
+
+
+

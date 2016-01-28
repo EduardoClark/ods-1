@@ -19,7 +19,7 @@ foreach($metadata["results"] as $value) {
 include('h_objetivos.php');
 ?>
 
-<h3 style="font-weight: bold; text-align: center; margin-bottom: 50px;">Tipos de plataformas de Financiamiento Colectivo en México</h3>
+<h3 style="font-weight: bold; text-align: center; margin-bottom: 50px;">Objetivos de Desarrollo Sostenible</h3>
 <div class="objetivos-grid">
 	<div class="col-xs-12">
 		<?php for ($i = 0; $i < count($objetivos); $i++) {
@@ -34,7 +34,7 @@ include('h_objetivos.php');
 <div id="objetivo-indicadores-grid" class="col-xs-12" style="display: none;">
 	<div class="objetivo-indicadores-grid-header">
 		<div class="objetivo-icon"></div>
-		<div class="objetivo-number">Tipo 1</div>
+		<div class="objetivo-number">OBJETIVO 1</div>
 		<div class="objetivo-name">Name</div>
 		<div onmousedown="hide_objetivo();" class="close-x"><img width=24 height=24 src="<?php echo path_to_theme(); ?>/assets/close-x.png" /></div>
 	</div>

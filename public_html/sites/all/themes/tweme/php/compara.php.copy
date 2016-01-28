@@ -77,7 +77,7 @@
 				</div>
 			</div>
 			<div class="row" style="margin-bottom: 10px;">
-				<div class="col-xs-12 col-sm-2"><span class="circle-letter">B</span><span>Tipo de plataforma</span></div>
+				<div class="col-xs-12 col-sm-2"><span class="circle-letter">B</span><span>Objetivo</span></div>
 				<div class="col-xs-12 col-sm-4">
 					<select id="select-objetivo-a">
 					</select>
@@ -89,7 +89,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12 col-sm-2"><span class="circle-letter">C</span><span>Tipo de plataforma</span></div>
+				<div class="col-xs-12 col-sm-2"><span class="circle-letter">C</span><span>Objetivo</span></div>
 				<div class="col-xs-12 col-sm-4">
 					<select id="select-objetivo-b">
 					</select>
@@ -206,7 +206,7 @@
 					<div id="chart-slider"></div>
 					<div onmousedown="exportToPDF('gm');" class="btn btn-line-export btn-outline">Exportar gráfica</div>
 				</div>
-				<div class="gm-caption gm-section col-xs-12 col-sm-3"><p>La información de las dos variables seleccionadas para visualizar en el mapa y la gráfica de esta sección no necesariamente están disponible para los mismos años. Por ejemplo, las mediciones de una variable pueden ser 2012 y 2015, y las de la otra 2013 a 2015, sin interrupciones.</p>
+				<div class="gm-caption gm-section col-xs-12 col-sm-3"><p>La información de las dos variables seleccionadas para visualizar en el mapa y la gráfica de esta sección no necesariamente están disponible para los mismos años. Por ejemplo, las mediciones de una variable pueden ser 1992, 1997, 2006 y 2012, y las de la otra 1991 a 2012, sin interrupciones.</p>
 
 <p>En caso de que esto ocurra, la barra ubicada debajo del mapa mostrará todos los años para los cuales haya datos disponibles para el primer indicador seleccionado. El mapa visualizará el valor del primer indicador para el año seleccionado, así como los datos del año más cercano para el segundo indicador. En la gráfica, los valores faltantes serán remplazados por valores calculados utilizando una interpolación lineal.</p></div>
 			</div>
